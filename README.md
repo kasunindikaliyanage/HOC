@@ -35,5 +35,6 @@ Orginal concept for this project is based on that in The **Unix Programming Envi
 > varx = sin(var)^2 + cos(var)^2
 
 **Screen shot**
+
 ![](HOC_example.png)
 
